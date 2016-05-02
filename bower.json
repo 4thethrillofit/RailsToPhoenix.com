@@ -1,0 +1,24 @@
+{
+  "name": "rails-to-phoenix",
+  "version": "0.0.0",
+  "homepage": "https://railstophoenix.com",
+  "authors": [
+    "Feifan Wang <fei@secretsaucehq.com>"
+  ],
+  "description": "Learn the Elixir Phoenix framework as a Rails developer",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.2.1",
+    "bourbon": "~4.2.7"
+  }
+}
