@@ -1,14 +1,14 @@
 # Required
 language: 'en-us'
-url: 'http://www.example.com'
-human_url: 'Example.com'
-name: 'Example Site'
-description: 'Example site description'
-title: 'Example site title'
+url: 'https://railstophoenix.com'
+human_url: 'RailsToPhoenix.com'
+name: 'Rails to Phoenix'
+description: 'Learn the Elixir Phoenix framework with side-by-side Rails examples.'
+title: 'Rails to Phoenix | Learn the Elixir Phoenix framework as a Rails developer'
 
 # Optional
-logo_image_name: 'example-logo-big.png'
-logo_image_path: 'http://www.examplecdn.com/example-logo-large.png'
-twitter_handle: '@Example'
+# logo_image_name: 'example-logo-big.png'
+# logo_image_path: 'http://www.examplecdn.com/example-logo-large.png'
+twitter_handle: '@feifanw'
 # facebook_app_id: ''
 
