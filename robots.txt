@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: #<Middleman::CoreExtensions::Collections::LazyCollectorStep:0x007f9149da01b0>/sitemap.xml
+Sitemap: #<Middleman::CoreExtensions::Collections::LazyCollectorStep:0x007fd96ac63478>/sitemap.xml
